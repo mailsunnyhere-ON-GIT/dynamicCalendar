@@ -15,4 +15,4 @@ To navigate through different months and years, use the arrow buttons located at
 Contributing
 Contributions to Dynamic Calendar are welcome! If you have any ideas for new features or improvements, feel free to open an issue or submit a pull request.
 
-I hope this helps! Let me know if you need any further assistance. 😊
+
